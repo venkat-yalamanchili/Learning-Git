@@ -1,2 +1,3 @@
 Test
 New line
+Testing purpose
